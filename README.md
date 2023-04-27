@@ -112,4 +112,6 @@ SELECT name FROM people WHERE passport_number IN
 -- around the time of the crime, and had a phone call for less than a minute in which he called his accomplice, Robin
 -- Bruce is the suspect and Robin is the accomplice in this fictional senario.
 
+-- Assignemnt via CS50: https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
+
 
