@@ -110,7 +110,6 @@ SELECT name FROM people WHERE passport_number IN
 --Only Bruce is the common character that was on the flight, at the atm, left the parking lot
 --around the time of the crime, and had a phone call for less than a minute in which he called
 --his accomplice, Robin
-
---Bruce is the suspect and Robin is the accomplice
+--Bruce is the suspect and Robin is the accomplice in this fictional senario.
 
 
